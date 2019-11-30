@@ -1,2 +1,5 @@
 .ipynb_checkpoints*
-data/*
+data*
+checkpoints/*
+*.hdf5
+digit-*
